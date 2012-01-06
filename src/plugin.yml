@@ -1,0 +1,11 @@
+﻿# This determines the command prefix when there are conflicts (/name:home, /name:help, etc.)
+name: OPS
+authors: [illysig]
+main: com.cafe.OPSKoreanTeam.OPSKoreanTeam
+version: 1.3 Beta
+website: http://cafe.naver.com/opspace
+description: Bukkit Plugin.
+authors: [OPSKoreanTeam]
+commands:
+  한글화팀:
+    description: description
